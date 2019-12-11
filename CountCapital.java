@@ -8,7 +8,7 @@ class Strings
 		
 		int i=0, count=0;
 		
-		for(i=0;i<arr.length-1;i++)
+		for(i=0;i<arr.length;i++)
 		{
 			if((arr[i]>='A')&&(arr[i]<='Z'))
 			{
